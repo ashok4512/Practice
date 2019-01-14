@@ -31,7 +31,7 @@
     <snapshotRepository>
          <id>Snapshot</id>
          <name>Ashok</name>
-         <url>http://localhost:8081/repository/Ashok/</url>
+         <url>http://localhost:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 
